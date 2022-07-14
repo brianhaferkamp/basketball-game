@@ -7,8 +7,8 @@ This is a game demo only. There are four team cards created for you to try out: 
 
 Download these PDF files to have the components for the game:
 
-[Team Cards]()
-[Scoresheet with Timer]()
+[Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards.pdf)
+[Scoresheet with Timer](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet-with-Timing.pdf)
 
 ## Game Play
 
@@ -21,28 +21,28 @@ You can also simply decide the possession and then alternate possession througho
 
 To play a possession, roll the d10 dice and combine the number to get a number between 1 and 100. Consult the play chart on the card of the team with possession. Here are the plays:
 
-RUN
+### RUN
 If there is a scoring run, roll both d10 dice and consult the scoring run chart (bottom right of the card under 3PT%). Mark off the points on the scoresheet and take 4:00 off the timer.
 
-TO
+### TO
 Turnover. No scoring. Move the clock one space.
 
-FT Att
+### FT Att
 Free throw attempt x 2. Roll the d10 dice and compare it with the FT% of the team (chart under the W-L record). If the roll result is less than the FT% then the free throw is good. If it's higher the free throw has been missed.
 
-2PT Att
+### 2PT Att
 Two point attempt. This is a two point shot. Roll the d10 dice and combine. Compare the roll result with the FG% of the team. If the roll result is less than or equal to the FG% then the shot is good. If it's higher than the FG% the shot has been missed.
 
-And 1
+### And 1
 This is a made basket with a foul. Count the two points automatically and make a FT Attempt.
 
-2PT
+### 2PT
 Automatic two points.
 
-3PT Att
+### 3PT Att
 Three point attempt. Roll the d10 dice and combine. Compare the roll result with the 3PT% of the team. If the roll result is less than or equal to the 3PT% then the shot is good. If it's higher than the 3PT% the shot has been missed.
 
-3PT
+### 3PT
 Automatic three points.
 
 The game is pretty simple and straightforward at this point. Play until the timer runs out, alternating possession between the teams. I'd love to hear your thoughts on the game play, fun factor, cards, timer, scoresheet--anything. Send any comments and suggestions to onbasebaseball@gmail.com.
