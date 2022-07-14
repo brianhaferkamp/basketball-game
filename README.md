@@ -7,7 +7,7 @@ This is a game demo only. There are four team cards created for you to try out: 
 
 Download these PDF files to have the components for the game:
 
-[Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards.pdf)
+[Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards.pdf)\
 [Scoresheet with Timer](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet-with-Timing.pdf)
 
 ## Game Play
