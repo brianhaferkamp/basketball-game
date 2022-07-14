@@ -10,6 +10,8 @@ Download these PDF files to have the components for the game:
 [Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards.pdf)\
 [Scoresheet with Timer](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet-with-Timing.pdf)
 
+[Watch this introductory video to learn how to play.](https://youtu.be/0hvPqzHxi-o)
+
 ## Game Play
 
 You can have a traditional tip off by rolling to see who gets the ball. I like to use
