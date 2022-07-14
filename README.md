@@ -1,7 +1,7 @@
 # Tabletop Basketball Game
 A possession-by-possession quick play tabletop basketball game
 
-This is a game demo only. There are four team cards created for you to try out: Phoenix, Chicago, New York, and Sacramento. Download the two PDF files--the team cards and the scorecard with timer. You'll need 2 d10 dice to use for this game. Roll real dice or use a virtual roller.
+This is a game demo only. There are four team cards created for you to try out: Phoenix, Chicago, New York, and Sacramento. Download the two PDF files--the team cards and the scorecard with timer. You'll need 2 d10 dice to use for this game. Roll real dice or use a virtual roller. You'll also need two small markers for time keeping.
 
 ## Game Components
 
