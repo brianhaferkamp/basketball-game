@@ -14,7 +14,7 @@ Download these PDF files to have the components for the game:
 
 You can have a traditional tip off by rolling to see who gets the ball. I like to use
 
-1-50 = Visitors
+1-50 = Visitors\
 51-100 = Home
 
 You can also simply decide the possession and then alternate possession throughout the game. 
