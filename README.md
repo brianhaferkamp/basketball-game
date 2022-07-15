@@ -8,7 +8,8 @@ This is a game demo only. There are four team cards created for you to try out: 
 Download these PDF files to have the components for the game:
 
 [Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards_Demo.pdf)\
-[Scoresheet with Timer](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet-with-Timing.pdf)
+[Game Timer (clock and possessions)](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Timer.pdf)\
+[Scoresheet w/player stats](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet.pdf)
 
 [Watch this introductory video to learn how to play.](https://youtu.be/0hvPqzHxi-o)
 
