@@ -48,3 +48,7 @@ Three point attempt. Roll the d10 dice and combine. Compare the roll result with
 Automatic three points.
 
 The game is pretty simple and straightforward at this point. Play until the timer runs out, alternating possession between the teams. I'd love to hear your thoughts on the game play, fun factor, cards, timer, scoresheet--anything. Send any comments and suggestions to onbasebaseball@gmail.com.
+
+## Using Player Stats
+
+If you want the granularity of keeping player stats you can use the player cards. First, roll for the play using the team card then roll 2 d10s and combine to get a roll result. Find the player for that play type that has a range that includes the roll result. Under each player name is that player's FT%, 2PT%, and 3PT% (in that order). Roll the 2 d10s again and combine to get the roll result. If the roll result is less than or equal to the player's shooting percentage for that type of shot then the basket is good. If it is greater than the player's shooting percentage the shot has been missed.
