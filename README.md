@@ -15,6 +15,8 @@ Download these PDF files to have the components for the game:
 
 ## Game Play
 
+This game requires two d10 dice to play. I've built a virtual dice roller and time keeper for the game that you're free to use on any device or computer: https://cdpn.io/pen/debug/WNzRGez/706d5aa477cf55f1c8e5e103880a2f8d
+
 You can have a traditional tip off by rolling to see who gets the ball. I like to use
 
 1-50 = Visitors\
