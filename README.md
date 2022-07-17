@@ -52,6 +52,10 @@ Automatic three points.
 
 The game is pretty simple and straightforward at this point. Play until the timer runs out, alternating possession between the teams. I'd love to hear your thoughts on the game play, fun factor, cards, timer, scoresheet--anything. Send any comments and suggestions to onbasebaseball@gmail.com.
 
+## Defense
+
+To use the defense (DEF) ratings you will add or subtract the defense rating to the shooting percentage for the team or player then compare the calculated percentage against the roll result of the shooting percentage roll. For example, if the original shooting percentage is 52.3 but the defense value is 3, the new shooting percentage is 55.3. If the defense value was -3 then the new shooting percentage is 49.3. You can use the team defense value against a team or individual player. To have individual player defense you would use the player guarding the shooter (i.e., playing the same position).
+
 ## Using Player Stats
 
 If you want the granularity of keeping player stats you can use the player cards. First, roll for the play using the team card then roll 2 d10s and combine to get a roll result. Find the player for that play type that has a range that includes the roll result. Under each player name is that player's FT%, 2PT%, and 3PT% (in that order). Roll the 2 d10s again and combine to get the roll result. If the roll result is less than or equal to the player's shooting percentage for that type of shot then the basket is good. If it is greater than the player's shooting percentage the shot has been missed.
