@@ -60,7 +60,7 @@ The game is pretty simple and straightforward at this point. Play until the time
 
 ## Defense
 
-To use the defense (DEF) ratings you will add or subtract the defense rating to the shooting percentage for the team or player then compare the calculated percentage against the roll result of the shooting percentage roll. For example, if the original shooting percentage is 52.3 but the defense value is 3, the new shooting percentage is 55.3. If the defense value was -3 then the new shooting percentage is 49.3. You can use the team defense value against a team or individual player. To have individual player defense you would use the player guarding the shooter (i.e., playing the same position).
+To use the defense (DEF) ratings you will add or subtract the defense rating to the shooting percentage for the team or player shooting the ball then compare the calculated percentage against the roll result of the shooting percentage roll. For example, if the original shooting percentage is 52.3 but the defense value is 3, the new shooting percentage is 55.3. If the defense value was -3 then the new shooting percentage is 49.3. You can use the team defense value against a team or individual player. To have individual player defense you would use the player guarding the shooter (i.e., playing the same position).
 
 ## Using Player Stats
 
