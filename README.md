@@ -11,6 +11,7 @@ Download these PDF files to have the components for the game:
 [Game Timer (clock and possessions styles)](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Timer.pdf)\
 [Scoresheet w/player stats](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet.pdf)
 [Scoring Runs Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoring-Runs_Cards.pdf)
+[Game Guide](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Guide.pdf)
 
 [Watch this introductory video to learn how to play.](https://youtu.be/0hvPqzHxi-o)
 
