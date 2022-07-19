@@ -10,6 +10,7 @@ Download these PDF files to have the components for the game:
 [Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards_Demo.pdf)\
 [Game Timer (clock and possessions styles)](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Timer.pdf)\
 [Scoresheet w/player stats](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet.pdf)
+[Scoring Runs Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoring-Runs_Cards.pdf)
 
 [Watch this introductory video to learn how to play.](https://youtu.be/0hvPqzHxi-o)
 
@@ -28,6 +29,8 @@ To play a possession, roll the d10 dice and combine the number to get a number b
 
 ### RUN
 If there is a scoring run, roll both d10 dice and consult the scoring run chart (bottom right of the card under 3PT%). Mark off the points on the scoresheet and take 4:00 off the timer.
+
+To get the individual stats for a scoring run, find the correct scoring run card (download above) and roll the 2 d10 dice to get a roll result. Compare that roll result against the roll column on the scoring run card. Find the row the roll result falls within range of and consult the row for the scoring of each of the different players on the court. You  can write these scoring plays in for each player to show what happened during the scoring run.
 
 ### TO
 Turnover. No scoring. Move the clock one space.
