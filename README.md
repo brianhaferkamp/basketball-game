@@ -1,7 +1,7 @@
 # Tabletop Basketball Game
 A possession-by-possession quick play tabletop basketball game
 
-This is a game demo only. There are four team cards created for you to try out: Phoenix, Chicago, New York, and Sacramento. Download the two PDF files--the team cards and the scorecard with timer. You'll need 2 d10 dice to use for this game. Roll real dice or use a virtual roller. You'll also need two small markers for time keeping.
+This is a game demo only. There are 8 teams for you to try out: 4 from 2021-22(Phoenix, Chicago, New York, and Sacramento) and 4 teams from 1986-87 (Boston, Los Angeles, Atlanta, and Dallas). Download all the game components below to try the game. You'll need 2 d10 dice to use for this game. Roll real dice or use a virtual roller. You'll also need two small markers for time keeping (if you're using the offline clock).
 
 ## Game Components
 
@@ -56,8 +56,6 @@ Three point attempt. Roll the d10 dice and combine. Compare the roll result with
 ### 3PT
 Automatic three points.
 
-The game is pretty simple and straightforward at this point. Play until the timer runs out, alternating possession between the teams. I'd love to hear your thoughts on the game play, fun factor, cards, timer, scoresheet--anything. Send any comments and suggestions to onbasebaseball@gmail.com.
-
 ## Defense
 
 To use the defense (DEF) ratings you will add or subtract the defense rating to the shooting percentage for the team or player shooting the ball then compare the calculated percentage against the roll result of the shooting percentage roll. For example, if the original shooting percentage is 52.3 but the defense value is 3, the new shooting percentage is 55.3. If the defense value was -3 then the new shooting percentage is 49.3. You can use the team defense value against a team or individual player. To have individual player defense you would use the player guarding the shooter (i.e., playing the same position).
@@ -65,3 +63,5 @@ To use the defense (DEF) ratings you will add or subtract the defense rating to 
 ## Using Player Stats
 
 If you want the granularity of keeping player stats you can use the player cards. First, roll for the play using the team card then roll 2 d10s and combine to get a roll result. Find the player for that play type that has a range that includes the roll result. Under each player name is that player's FT%, 2PT%, and 3PT% (in that order). Roll the 2 d10s again and combine to get the roll result. If the roll result is less than or equal to the player's shooting percentage for that type of shot then the basket is good. If it is greater than the player's shooting percentage the shot has been missed.
+
+The game is pretty simple and straightforward. Play until the timer runs out, alternating possession between the teams. I'd love to hear your thoughts on the game play, fun factor, cards, timer, scoresheet--anything. Send any comments and suggestions to onbasebaseball@gmail.com.
