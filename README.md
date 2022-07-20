@@ -15,7 +15,7 @@ Download these PDF files to have the components for the game:
 
 ### Demo Video
 
-[Watch this introductory video to learn how to play.](https://youtu.be/0hvPqzHxi-o)
+[Watch this introductory video to learn how to play.](https://youtu.be/PowiwApeRBI)
 
 ## Game Play
 
