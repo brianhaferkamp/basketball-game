@@ -7,7 +7,7 @@ This is a game demo only. There are 8 teams for you to try out: 4 from 2021-22(P
 
 Download these PDF files to have the components for the game:
 
-[Team Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards_Demo.pdf)\
+[Team Cards w/ Starters & Bench Players](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards_wBench_Demo.pdf)\
 [Game Timer (Both Clock and Possessions Styles)](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Timer.pdf)\
 [Scoresheet w/ Player Stats](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet.pdf)\
 [Scoring Runs Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoring-Runs_Cards.pdf)\
