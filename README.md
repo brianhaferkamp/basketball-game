@@ -31,7 +31,7 @@ You can also simply decide the possession and then alternate possession througho
 To play a possession, roll the d10 dice and combine the number to get a number between 1 and 100. Consult the play chart on the card of the team with possession. Here are the plays:
 
 ### RUN
-If there is a scoring run, roll both d10 dice and consult the scoring run chart (bottom right of the card under 3PT%). Mark off the points on the scoresheet and take 4:00 off the timer.
+If there is a scoring run, roll both d10 dice and consult the scoring run chart (bottom right of the card under 3PT%). Mark off the points on the scoresheet and take 2:00 off the timer.
 
 To get the individual stats for a scoring run, find the correct scoring run card (download above) and roll the 2 d10 dice to get a roll result. Compare that roll result against the roll column on the scoring run card. Find the row the roll result falls within range of and consult the row for the scoring of each of the different players on the court. You  can write these scoring plays in for each player to show what happened during the scoring run.
 
