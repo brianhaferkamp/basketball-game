@@ -1,7 +1,7 @@
 # Tabletop Basketball Game
 A possession-by-possession quick play tabletop basketball game
 
-This is a game demo only. There are 8 teams for you to try out: 4 from 2021-22(Phoenix, Chicago, New York, and Sacramento) and 4 teams from 1986-87 (Boston, Los Angeles, Atlanta, and Dallas). Download all the game components below to try the game. You'll need 2 d10 dice to use for this game. Roll real dice or use a virtual roller. You'll also need two small markers for time keeping (if you're using the offline clock).
+This is a game demo only. There are 4 teams for you to try out: 1986-87 (Boston, Los Angeles, Atlanta, and Dallas). Download all the game components below to try the game. You'll need 2 d10 dice to use for this game. Roll real dice or use a virtual roller. You'll also need two small markers for time keeping (if you're using the offline clock).
 
 ## Game Components
 
