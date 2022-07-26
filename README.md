@@ -11,7 +11,7 @@ Download these PDF files to have the components for the game:
 [Game Timer (Both Clock and Possessions Styles)](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Timer.pdf)\
 [Scoresheet w/ Space for Individual Stats](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet.pdf)\
 [Scoring Runs Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoring-Runs_Cards.pdf)\
-[Game Guide](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Guide.pdf)
+[Game Guide](https://github.com/brianhaferkamp/basketball-game/raw/main/Uptempo%20Basketball%20Game%20Guide.pdf)
 
 ### Demo Video
 
