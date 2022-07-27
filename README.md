@@ -7,7 +7,7 @@ This is a game demo only. There are 4 teams for you to try out: 1986-87 (Boston,
 
 Download these PDF files to have the components for the game:
 
-[Team Cards w/ Starters & Bench Players](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards_wBench_Demo_2.pdf)\
+[Team Cards w/ Starters & Bench Players](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Team_Cards_wBench_Demo_3.pdf)\
 [Game Timer (Both Clock and Possessions Styles)](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Timer.pdf)\
 [Scoresheet w/ Space for Individual Stats](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoresheet.pdf)\
 [Scoring Runs Cards](https://github.com/brianhaferkamp/basketball-game/raw/main/Basketball_Game_Scoring-Runs_Cards.pdf)\
