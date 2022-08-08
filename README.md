@@ -3,6 +3,20 @@ A possession-by-possession quick play tabletop basketball game
 
 This is a game demo only. There are 4 teams for you to try out: 1986-87 (Boston, Los Angeles, Atlanta, and Dallas). Download all the game components below to try the game. You'll need 2 d10 dice to use for this game. Roll real dice or use the [virtual dice roller app I created](https://cdpn.io/pen/debug/WNzRGez/706d5aa477cf55f1c8e5e103880a2f8d). You'll also need two small markers for time keeping (if you're using the offline clock).
 
+## Team and Player Cards w/ Fouls
+
+NEW! Download these three teams from 1985-86 to try out the new foul system for teams:
+
+[3 Teams w/ Fouls](https://github.com/brianhaferkamp/basketball-game/raw/main/uptempo_85-86_with_fouls.pdf)
+
+### FOUL
+
+I'm attempting to use a foul option in the game. This is new as of August 8, 2022. If you roll a FOUL then roll both d10 dice again and compare it to the ranges on the chart in the bottom left of the team card. This chart determines whether it was a defensive foul (non-shooting), a shooting foul, or an offensive foul. Shooting and defensive fouls count toward the total team fouls but offensive fouls do not. Each quarter the team fouls are reset so that after a team commits its fifth team foul in each quarter the opposing team gets 2 free throw attempts. There is no 1 and 1 bonus in the NBA. 
+
+Once there are two minutes remaining in a quarter, the bonus rule applies after a team reaches their second foul. This happens regardless how many team fouls were committed during the quarter of play. In any overtime period, the bonus rule gets applied once a team goes over three fouls.
+
+To figure out who committed the foul you can utilize the defense usage (the same as you use to find out who is the defender on the play). If a starter fouls out of a game then you will only use the bench player for that position for the rest of the game. If the bench player also fouls out you must substitute one of the other bench players into the position's spot for the remainder of the game.
+
 ## Game Components
 
 Download these PDF files to have the components for the game:
@@ -40,6 +54,14 @@ Turnover. No scoring. Move the clock one space.
 
 ### FT Att
 Free throw attempt x 2. Roll the d10 dice and compare it with the FT% of the team (chart under the W-L record). If the roll result is less than the FT% then the free throw is good. If it's higher the free throw has been missed.
+
+### FOUL
+
+I'm attempting to use a foul option in the game. This is new as of August 8, 2022. If you roll a FOUL then roll both d10 dice again and compare it to the ranges on the chart in the bottom left of the team card. This chart determines whether it was a defensive foul (non-shooting), a shooting foul, or an offensive foul. Shooting and defensive fouls count toward the total team fouls but offensive fouls do not. Each quarter the team fouls are reset so that after a team commits its fifth team foul in each quarter the opposing team gets 2 free throw attempts. There is no 1 and 1 bonus in the NBA. 
+
+Once there are two minutes remaining in a quarter, the bonus rule applies after a team reaches their second foul. This happens regardless how many team fouls were committed during the quarter of play. In any overtime period, the bonus rule gets applied once a team goes over three fouls.
+
+To figure out who committed the foul you can utilize the defense usage (the same as you use to find out who is the defender on the play). If a starter fouls out of a game then you will only use the bench player for that position for the rest of the game. If the bench player also fouls out you must substitute one of the other bench players into the position's spot for the remainder of the game.
 
 ### 2PT Att
 Two point attempt. This is a two point shot. Roll the d10 dice and combine. Compare the roll result with the FG% of the team. If the roll result is less than or equal to the FG% then the shot is good. If it's higher than the FG% the shot has been missed.
